@@ -80,4 +80,4 @@ You will see the program output in the console or as a generated file (depending
 This is a console-based Java utility project meant for local execution in your IDE. No deployment is required.
 
 🤝 Acknowledgements
-Special thanks to the contributors: Arnau, Adrià, Ignasi, Ana, Alejandro
+Special thanks to the contributors: Arnau, Adrià, Ignasi, Ana, Alejandro and Marc
